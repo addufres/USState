@@ -23,3 +23,7 @@ It uses:
 	* JSP pages output information
 * Takes input from a user through the use of the Scanner object.
 * Call methods with parameters and call methods from objects.
+
+#### Run instructions
+
+Follow this link to reach the web app. http://18.221.108.122:8080/USStates/
